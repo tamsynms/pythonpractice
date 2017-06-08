@@ -54,4 +54,4 @@ for url in urls:
     # take the text data and add it to the growing corpus
     corpus_texts.append(text)
 #print out the contents of the thing so you know that it ran
-#print(corpus_texts)
+print(corpus_texts)
